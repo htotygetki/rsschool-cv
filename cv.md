@@ -15,7 +15,7 @@
 
 ---
 
-I am currently working as a sales engineer in a large Belarusian company and decided to try myself in a new field of activity, namely **_JS Frontend Developer_**.
+I am currently working as a sales engineer in a large Belarusian company and decided to try myself in a new field of activity, namely JS Frontend Developer.
 
 My **main goal** is to educate and comprehend let the JS developer and employment in the future in this field of activity.
 
