@@ -207,7 +207,13 @@
 						<h3 class="section-title">Code example</h3>
 						<p><strong>Fibonacci Number KATA from CODEWARS:</strong> I love Fibonacci numbers in general, but I must admit I love some more than others.
 							I would like for you to write me a function that when given a number (n) returns the n-th number in the Fibonacci Sequence.</p>
-			
+						<pre>
+							<code>
+function nthFibo(n) {
+	if(n &lt;= 2) return n -1;
+	return nthFibo(n - 2) + nthFibo(n - 1);
+}</code>
+						</pre>
 				</section>
 
 				<section class="hobby" id="hobby">
@@ -235,9 +241,10 @@
 							</div>
 						</div>
 				</section>
+				</div>
 			</div>
 		</main>
-		
+
 		<footer>
 			<a class="my-github" href="https://github.com/htotygetki">
 			  <img class="github-icon" src="./icons/git-icon.svg" alt="Github Icon" width="25" height="25">
